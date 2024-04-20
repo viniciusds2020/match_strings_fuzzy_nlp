@@ -20,7 +20,7 @@ Este projeto consiste em uma aplicação de chatbot chamada Chat Ollama que util
      ```
    - Instale as dependências:
      ```bash
-     cd chat-ollama
+     cd nlp_chat_llama
      pip install -r requirements.txt
      ```
 
