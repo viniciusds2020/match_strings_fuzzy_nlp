@@ -4,6 +4,8 @@ import streamlit as st
 from streamlit_chat import message
 from rag import ChatPDF
 
+# Referencia https://github.com/vndee/local-rag-example/tree/main
+
 st.set_page_config(page_title="ChatPDF")
 
 def display_messages():
