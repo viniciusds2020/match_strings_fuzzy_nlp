@@ -16,7 +16,7 @@ Este projeto consiste em uma aplicação de chatbot chamada Chat Ollama que util
 1. **Instalação**:
    - Clone este repositório:
      ```bash
-     git clone https://github.com/seu-usuario/chat-ollama
+     git clone https://github.com/viniciusds2020/nlp_chat_llama.git
      ```
    - Instale as dependências:
      ```bash
